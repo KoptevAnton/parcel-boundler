@@ -2,7 +2,8 @@
   "description": "",
   "scripts": {
     "newDir": "mkdir dir1 dir2 dir3",
-    "commit": "git add .; git commit -m 'update'"
+    "commit": "git add .; git commit -m 'update'",
+    "start":"echo start"
   },
   "dependencies": {
     "simplelightbox": "^2.14.2"
