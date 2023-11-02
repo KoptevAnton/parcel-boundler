@@ -1,0 +1,10 @@
+{
+  "description": "",
+  "scripts": {
+    "newDir": "mkdir dir1 dir2 dir3",
+    "commit": "git add .; git commit -m 'update'"
+  },
+  "dependencies": {
+    "simplelightbox": "^2.14.2"
+  }
+}
